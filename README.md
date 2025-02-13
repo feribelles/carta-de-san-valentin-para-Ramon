@@ -1,7 +1,9 @@
-# Feliz San Valentin mi amorcito ❤️ # 
+# ¡Feliz San Valentin mi amorcito! ❤️ # 
 
-## Te hice esta carta virtual con mucho amor  😘
-Para verla 
+Te hice esta carta virtual con mucho amor  😘
 
-- Haz clic en la parte inferior izquierda en "Deployments" 
-- Dentro de la seccion "Latest deployments" encontraras el link a la página web, haz clic en este link para verla: https://feribelles.github.io/carta-de-san-valentin-para-Ramon
+- Haz clic en este link para verla: https://feribelles.github.io/carta-de-san-valentin-para-Ramon
+
+**Te amo mucho**
+
+*Yo más*
